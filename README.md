@@ -9,7 +9,7 @@ In this project, we are going to creat our own funtions for different uses and i
 
 > || Desktop version || 
 > |-|---------|-|
-> || ![Screenshot1](./result) ||
+> || ![Screenshot1](./reslut.png) ||
 
 ## Built With
 
